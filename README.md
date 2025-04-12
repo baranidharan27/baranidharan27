@@ -6,7 +6,7 @@
 
  **Project Associate** at Computational Data sciences at **Indian Institute of Science (IISc)**, specializing in **Machine Learningand  AI**. Passionate about **GenAI, Data Pipelines, MLOps, and Open Source**. Contributor to **SciREX**, an open-source **Scientific Machine Learning (SciML) library**.  
 
-🔭 Currently working on **Multi-Sensor Data Fusion (MSDF) for DRDO** and **IBM Granite Model research in multimodal AI**.  
+🔭 Currently working on **Foundational model for LLM and VLM** ,**Multi-Sensor Data Fusion (MSDF) for DRDO** and **IBM Granite Model research in multimodal AI**.  
 
 ## Connect
 
