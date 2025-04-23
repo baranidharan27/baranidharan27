@@ -2,6 +2,7 @@
 
 
 ### I’m currently working on
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=500&color=3D83F7&center=true&vCenter=true&width=600&height=50&lines=Machine+Learning;Data+Engineering;Large+Language+Models)](https://git.io/typing-svg)
 
  **Project Associate** at Computational Data sciences at **Indian Institute of Science (IISc)**, specializing in **Machine Learningand  AI**. Passionate about **GenAI, Data Pipelines, MLOps, and Open Source**. Contributor to **SciREX**, an open-source **Scientific Machine Learning (SciML) library**.  
