@@ -41,83 +41,69 @@
 
 ---
 
-##  Skills  
+## Skills  
 
 ### **Programming**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
 ### **Machine Learning & AI**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![JAX](https://img.shields.io/badge/JAX-0055A5?style=for-the-badge&logo=google&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+### **GPU-Frameworks**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-0066A1?style=for-the-badge&logo=onnx&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-FF6F00?style=for-the-badge&logo=nvidia&logoColor=white)  
 ### **MLOps & Cloud**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=data-version-control&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=data-version-control&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
 ### **GenAI & Data Processing**  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)  
-![IBM Docling](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)  
-![Vector DB](https://img.shields.io/badge/VectorDB-333333?style=for-the-badge&logo=weaviate&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black) ![IBM Docling](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Vector DB](https://img.shields.io/badge/VectorDB-333333?style=for-the-badge&logo=weaviate&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ### **Monitoring & Automation**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
-![Microsoft CoPilot](https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Microsoft CoPilot](https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
 
 ### **Web Development**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### **Documentation & Reports**  
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)  
-![MkDocs](https://img.shields.io/badge/MkDocs-000000?style=for-the-badge&logo=markdown&logoColor=white)  
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white) ![MkDocs](https://img.shields.io/badge/MkDocs-000000?style=for-the-badge&logo=markdown&logoColor=white)  
+
 
 ---
 
 ## Notable Projects  
+### **1️⃣ GPU-Accelerated Inference Workflow with ONNX and TensorRT on NVIDIA RTX A6000**  
+**Skills:** PyTorch | ONNX | TensorRT | PyCUDA | CUDA | Model Conversion | GPU  
+- Developed an **optimized object detection pipeline** by converting **YOLOv5 models** from **PyTorch to ONNX** and further accelerating with **TensorRT FP16 precision**.  
+- Achieved **1.9× speedup over PyTorch** (495.3 FPS vs 265.9 FPS) and **5.2× speedup over ONNX Runtime** (495.3 FPS vs 94.9 FPS) on **NVIDIA RTX A6000** GPU.  
+- Reduced **inference latency by 46%** (3.76ms to 2.02ms) through **efficient CUDA memory management** and **asynchronous execution**.  
+- Implemented **GPU-accelerated processing** with proper **stream synchronization** and **benchmark methodology**, resulting in **81% reduction in processing time** compared to ONNX Runtime.  
+🔗 **Repo:** [GitHub](https://github.com/baranidharan27/TensorRT) 
 
-### **1️⃣ SLM-Powered AI Chatbot for Code Generation**  
- **Skills:** GenAI | Phi-2 SLM Model | Prompting | FastAPI | React | JavaScript | TailwindCSS  
+### **2️⃣ SLM-Powered AI Chatbot for Code Generation**  
+**Skills:** GenAI | Phi-2 SLM Model | Prompting | FastAPI | React | JavaScript | TailwindCSS  
 - Built an **AI chatbot** using **Small Language Models (SLMs)** for **efficient code generation**.  
 - Designed a **React-based chat interface** and integrated **XML output functionality**.  
 - Developed a **data-agnostic architecture** supporting easy model swaps (**tested with Mistral 7B**).  
 🔗 **Repo:** [GitHub](https://github.com/baranidharan27/GenAI/tree/main)  
 
-### **2️⃣ AffectSense – AI-Based Emotion Recognition for Meetings**  
- **Skills:** Computer Vision | OpenCV | FER | FastAPI | Python  
+### **3️⃣ AffectSense – AI-Based Emotion Recognition for Meetings**  
+**Skills:** Computer Vision | OpenCV | FER | FastAPI | Python  
 - Built an **AI-powered video analysis system** to **detect facial emotions in meeting recordings**.  
 - Implemented **face detection** using **OpenCV & Haar Cascade Classifier**.  
 - Analyzed **sentiments (anger, happiness, sadness, etc.)** and visualized engagement trends.  
 🔗 **Repo:** [GitHub](https://github.com/baranidharan27/ML-driven-Video-analysis)  
 
-### **3️⃣ Document Prep Kit – AI-Powered Data Processing**  
- **Skills:** IBM DocLingo | Data Extraction | OOP Principles | Logging | GPT-2  
+### **4️⃣ Document Prep Kit – AI-Powered Data Processing**  
+**Skills:** IBM DocLingo | Data Extraction | OOP Principles | Logging | GPT-2  
 - Built a **data preparation pipeline** for **fine-tuning LLMs** on **scientific documents**.  
 - Extracted **images, formulas, and captions** using **IBM DocLingo** and **proximity-based captioning**.  
 - Designed a **modular OOP-based architecture** for **scalability and debugging**.  
 🔗 **Repo:** [GitHub](https://github.com/baranidharan27/IBM)  
 
-### **4️⃣ Celery-Redis Task Queuing System**  
- **Skills:** FastAPI | Celery | Redis | Docker | Concurrency  
+### **5️⃣ Celery-Redis Task Queuing System**  
+**Skills:** FastAPI | Celery | Redis | Docker | Concurrency  
 - Developed a **FastAPI-Celery-Redis Orchestrator** for **scalable task execution**.  
 - Implemented **asynchronous task queuing** to **optimize AI & RAG model performance**.  
 🔗 **Repo:** [GitHub](https://github.com/baranidharan27/RAG-celery-redis)  
 
----
 
 ##  Certifications  
 ✅ **Foundation of Cloud Edge Machine Learning** – *NPTEL (April 2023)*  
